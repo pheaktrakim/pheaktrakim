@@ -1,6 +1,6 @@
 ### Hi I'm Pheakatra  👋
 
-I'm Pheaktra, I graduated Computer Scince and Engineering at RUPP.
+I'm Pheaktra, I graduated Computer Science and Engineering at RUPP.
 
 __________________________________________________________________
 
