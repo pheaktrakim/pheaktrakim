@@ -19,5 +19,5 @@ __________________________________________________________________
 * YOUBE clone (Frontend)
 - Source : https://github.com/pheaktrakim/youtube-clone-07-08-2020.git
 - Demo : https://kkrxw.csb.app/
-- Technology : (React, style component, SASS, Andt component, reactstrap...)
+- Technology : (React, style component, SASS, Antd component, reactstrap...)
 
