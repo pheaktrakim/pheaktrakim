@@ -18,6 +18,7 @@ __________________________________________________________________
 ### Project 
 * YOUBE clone (Frontend)
 - Source : https://github.com/pheaktrakim/youtube-clone-07-08-2020.git
-- Demo : https://kkrxw.csb.app/
+- Demo : https://kkrxw.csb.app/. 
+- Vercel: https://youtube-clone-07-08-2020.vercel.app/
 - Technology : (React, style component, SASS, Antd component, reactstrap...)
 
