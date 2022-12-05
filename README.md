@@ -17,5 +17,5 @@ __________________________________________________________________
 __________________________________________________________________
 ### Project 
 
-- Technology : (Js, Node, Firebase, Postgress)
+- Technology : (Js/Typescipt, Reactjs/NextJs, VueJs/NuxtJs, Node, Firebase, Postgress)
 
