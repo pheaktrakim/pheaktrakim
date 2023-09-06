@@ -5,8 +5,8 @@ I'm Pheaktra, I graduated :mortar_board: Computer Science and Engineering at RUP
 __________________________________________________________________
 
 ### Experience 
-
-* Developer at Edemy (2020-Now)
+* System Developer at Wing Bank (2022-Now)
+* Developer at Edemy (2020-2022)
 * Developer at FWTA (2019-2020)
 
 __________________________________________________________________
