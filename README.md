@@ -21,6 +21,6 @@ __________________________________________________________________
 + Technology
 - Frontend: Js, Typescript, Jquery, ReactJs, NextJs, VueJs, Ant Design, Vuetify
 - Style: CSS, SCSS, SASS, Bootstrap, TailwindCSS, style-components 
-- Bankend : NodeJs Express PHP Laravel
+- Backend : NodeJs Express PHP Laravel
 - Database: PostgreSQL, Firebase, Cloud Firestore, Cloud Storage for Firebase, Firebase Authentication, Firebase Hosting, MongoDB
 - Software and tools: Git, Jira, Trello, Deployment
